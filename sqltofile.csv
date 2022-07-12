@@ -1,0 +1,9 @@
+loan,term,loan_status,newterm,int_rates_add_2pct
+30000,24,Fullypaid           ,,44400
+80000,12,Fullypaid           ,,99200
+90000,12,Fullypaid           ,,111600
+20000,36,notpaid             ,48,34400
+40000,36,notpaid             ,48,68800
+50000,36,notpaid             ,48,86000
+60000,36,notpaid             ,48,103200
+100000,36,notpaid             ,48,172000
